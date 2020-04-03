@@ -1,0 +1,5 @@
+C:\Users\hakan\source\repos\PersonelTakip\Personel.Entities\bin\Debug\Personel.Entities.dll
+C:\Users\hakan\source\repos\PersonelTakip\Personel.Entities\bin\Debug\Personel.Entities.pdb
+C:\Users\hakan\source\repos\PersonelTakip\Personel.Entities\obj\Debug\Personel.Entities.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\PersonelTakip\Personel.Entities\obj\Debug\Personel.Entities.dll
+C:\Users\hakan\source\repos\PersonelTakip\Personel.Entities\obj\Debug\Personel.Entities.pdb

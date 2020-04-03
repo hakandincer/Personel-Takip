@@ -1,0 +1,11 @@
+C:\Users\hakan\source\repos\PersonelTakip\PersonelBLL\bin\Debug\PersonelBLL.dll
+C:\Users\hakan\source\repos\PersonelTakip\PersonelBLL\bin\Debug\PersonelBLL.pdb
+C:\Users\hakan\source\repos\PersonelTakip\PersonelBLL\obj\Debug\PersonelBLL.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\PersonelTakip\PersonelBLL\obj\Debug\PersonelBLL.dll
+C:\Users\hakan\source\repos\PersonelTakip\PersonelBLL\obj\Debug\PersonelBLL.pdb
+C:\Users\hakan\source\repos\PersonelTakip\PersonelBLL\bin\Debug\Personel.DAL.dll
+C:\Users\hakan\source\repos\PersonelTakip\PersonelBLL\bin\Debug\Personel.Entities.dll
+C:\Users\hakan\source\repos\PersonelTakip\PersonelBLL\bin\Debug\Personel.DAL.pdb
+C:\Users\hakan\source\repos\PersonelTakip\PersonelBLL\bin\Debug\Personel.DAL.dll.config
+C:\Users\hakan\source\repos\PersonelTakip\PersonelBLL\bin\Debug\Personel.Entities.pdb
+C:\Users\hakan\source\repos\PersonelTakip\PersonelBLL\obj\Debug\PersonelBLL.csproj.CopyComplete
